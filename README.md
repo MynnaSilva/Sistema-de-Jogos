@@ -19,15 +19,8 @@ AMÁBELIE MYNNA PEREIRA SILVA
 ## Descrição do Projeto
 Este projeto em Python utilizando Tkinter foi desenvolvido para criar um sistema simples de jogos. O sistema permite interação tanto como administrador quanto como jogador. Utilizando Tkinter, uma biblioteca conhecida pela sua facilidade de uso para criar interfaces gráficas em Python, o sistema oferece uma experiência interativa onde administradores podem gerenciar jogos, configurar regras básicas e monitorar o sistema. Por outro lado, os jogadores podem explorar diferentes jogos disponíveis, compra-los e até mesmo formar equipes, tudo de forma intuitiva.
 
-## Objetivos
-O objetivo central deste projeto é demonstrar como os princípios da Programação Orientada a Objetos (OOP) foram empregados na implementação das funcionalidades essenciais do sistema de jogos. Através da OOP, o sistema será estruturado em classes que representam entidades como jogos, jogadores, administradores e funcionalidades específicas de cada jogo.
-
-O objetivo secundário deste cenário é desenvolver um sistema de jogos funcional em Python, com as seguintes metas específicas:
-
-- Criar classes que representem diferentes tipos de jogos, cada uma com métodos para iniciar, pausar e encerrar o jogo.
-- Implementar uma hierarquia de classes que permita a extensão fácil de novos tipos de jogos.
-- Utilizar herança para compartilhar comportamentos comuns entre os diferentes tipos de jogos, como a lógica de pontuação ou regras básicas.
-- Criar classes para administradores e jogadores, com métodos que permitam a gestão de usuários, adição e remoção de jogos, e gerenciamento de partidas em andamento.
+## Objetivo
+O objetivo central deste projeto é demonstrar a aplicação dos princípios da Programação Orientada a Objetos (OOP) na implementação das funcionalidades essenciais de um sistema de jogos. Utilizando OOP, o sistema será estruturado em classes que representam entidades como jogos, jogadores, administradores e funcionalidades típicas de um ambiente de jogos.
 
 ## Descrição de entidades
 `Jogo (Jogo):` Representa um jogo no sistema. Possui atributos como código, nome, gênero, avaliação, valor e requisitos.
