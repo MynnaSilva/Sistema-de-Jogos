@@ -8,8 +8,8 @@ CURSO DE CIÊNCIA E TECNOLOGIA
 
 EECP0005 - PARADIGMAS DE PROGRAMAÇÃO (2024 .1 - T02)
 
-PEDRO  ARTHUR 
-2021.....
+PEDRO ARTHUR DA SILVA GUIMARÃES
+2021026657
 
 AMÁBELIE MYNNA PEREIRA SILVA
 2021061852</p>
@@ -67,10 +67,9 @@ Para baixar ou clonar o rece´tório, siga estas etapas:
 
 ``1`` Abra o navegador da web e acesse o repositório do projeto no GitHub.
 ``2``Clique no botão "Code" (ou "Código") e selecione a opção de download ZIP para baixar o projeto como um arquivo ZIP.
-Ou, se preferir, copie o URL do repositório e use um cliente Git para clonar o repositório em sua máquina local:
+Ou, se preferir, copie o URL do repositório e use um cliente Git para clonar o repositório em sua máquina local:``https://github.com/MynnaSilva/Sistema-de-Jogos.git``
 
 
 - Execute o arquivo principal:
   `main.py`
 - Interaja com o sistema: Após iniciar o sistema, interaja com ele conforme o fluxo implementado. Envolvendo cadastro de jogadores, criação de equipes, compra de jogos, entre outras funcionalidades desenvolvidas.
- ![image](https://github.com/MynnaSilva/Sistema-de-Jogos/assets/151090210/c69a5000-a8d1-489d-80d0-47409d66f4e3)
