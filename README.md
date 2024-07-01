@@ -1,21 +1,5 @@
 <h1 align="center"> SISTEMA DE JOGOS </h1>
 
-UNIVERSIDADE FEDERAL DO MARANHÃO – UFMA
-
-CENTRO DE CIÊNCIAS EXATAS E TECNOLOGIA – CCET
-
-CURSO DE CIÊNCIA E TECNOLOGIA
-
-EECP0005 - PARADIGMAS DE PROGRAMAÇÃO (2024 .1 - T02)
-
-PEDRO ARTHUR DA SILVA GUIMARÃES
-2021026657
-
-AMÁBELIE MYNNA PEREIRA SILVA
-2021061852</p>
-
-
-
 ## Descrição do Projeto
 Este projeto em Python utilizando Tkinter foi desenvolvido para criar um sistema simples de jogos. O sistema permite interação tanto como administrador quanto como jogador. Utilizando Tkinter, uma biblioteca conhecida pela sua facilidade de uso para criar interfaces gráficas em Python, o sistema oferece uma experiência interativa onde administradores podem gerenciar jogos, configurar regras básicas e monitorar o sistema. Por outro lado, os jogadores podem explorar diferentes jogos disponíveis, compra-los e até mesmo formar equipes, tudo de forma intuitiva.
 
