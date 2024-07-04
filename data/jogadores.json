@@ -1,0 +1,97 @@
+[
+    {
+        "codigo": 1,
+        "nome": "arthur",
+        "idade": null,
+        "saldo": 67.0,
+        "senha": "arthur",
+        "amigos": [
+            "arthur1",
+            "kauan",
+            "josean"
+        ],
+        "jogos": [
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "equipe": null
+    },
+    {
+        "codigo": 2,
+        "nome": "arthur1",
+        "idade": null,
+        "saldo": null,
+        "senha": "arthur",
+        "amigos": [],
+        "jogos": [],
+        "equipe": null
+    },
+    {
+        "codigo": 3,
+        "nome": "kauan",
+        "idade": null,
+        "saldo": 2.0,
+        "senha": "porra123",
+        "amigos": [
+            "arthur"
+        ],
+        "jogos": [
+            "2"
+        ],
+        "equipe": null
+    },
+    {
+        "codigo": 4,
+        "nome": "josean",
+        "idade": null,
+        "saldo": 88.0,
+        "senha": "josean",
+        "amigos": [
+            "arthur"
+        ],
+        "jogos": [
+            "1"
+        ],
+        "equipe": null
+    },
+    {
+        "codigo": 5,
+        "nome": "marcos",
+        "idade": null,
+        "saldo": 38.0,
+        "senha": "marcos",
+        "amigos": [
+            "arthur"
+        ],
+        "jogos": [
+            "1"
+        ],
+        "equipe": null
+    },
+    {
+        "codigo": 6,
+        "nome": "LucasS",
+        "idade": null,
+        "saldo": 50.0,
+        "senha": "1225",
+        "amigos": [],
+        "jogos": [
+            "2"
+        ],
+        "equipe": null
+    },
+    {
+        "codigo": 7,
+        "nome": "MYNNA",
+        "idade": null,
+        "saldo": 8.0,
+        "senha": "MYNNA",
+        "amigos": [],
+        "jogos": [
+            "1"
+        ],
+        "equipe": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "1",
+        "nome": "dsad",
+        "genero": "sadsa",
+        "avaliacao": 6.0,
+        "valor": 12.0,
+        "requisitos": null
+    },
+    {
+        "codigo": "2",
+        "nome": "macacos",
+        "genero": "rpg",
+        "avaliacao": 9.0,
+        "valor": 10.0,
+        "requisitos": null
+    },
+    {
+        "codigo": "3",
+        "nome": "LAST OF US",
+        "genero": "AÇÃO",
+        "avaliacao": 9.5,
+        "valor": 150.0,
+        "requisitos": "W7"
+    }
+]
